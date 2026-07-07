@@ -69,7 +69,7 @@ A real-time AI-powered crowd monitoring system that detects people using YOLOv8,
 Python • YOLOv8 • OpenCV • Flask • HTML • CSS • JavaScript
 
 ### 🔗 Repository
-[🚀 View Project](https://github.com/girivardhan86/CrowdShield)
+[🚀 View Project](https://github.com/girivardhan86/crowd_shield_project)
 
 </details>
 

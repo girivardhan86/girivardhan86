@@ -52,10 +52,10 @@ AI & ML Engineer | Software Developer | Open Source Enthusiast
 ---
 
 ## 📊 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=girivardhan86)
+[(https://github-readme-stats.vercel.app/api?username=girivardhan86)](https://github-readme-stats-sigma-five.vercel.app/api?username=girivardhan86&show_icons=true&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 (https://streak-stats.demolab.com?user=girivardhan86)
 
 ## 💻 Most Used Languages
-https://github-readme-stats.vercel.app/api/top-langs/?username=girivardhan86
+[https://github-readme-stats.vercel.app/api/top-langs/?username=girivardhan86](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=girivardhan86&layout=compact&theme=tokyonight)

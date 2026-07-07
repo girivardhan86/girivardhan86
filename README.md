@@ -26,10 +26,24 @@ AI & ML Engineer | Software Developer | Open Source Enthusiast
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,Machine Learning,Deep Learning, NLP,Computer Vision,Generative AI, Agentic AI,flask,fastapi,streamlit,LangChain,LangGraph,sql,mongodb,git,github,vscode,tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,streamlit,sql,mongodb,git,github,vscode,tensorflow,pytorch,opencv"/>
 </p>
 
 ---
+🤖 AI & Data Science
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- 💬 Natural Language Processing (NLP)
+- 👁️ Computer Vision
+- ✨ Generative AI
+- 🤖 Agentic AI
+
+📚 Libraries
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+
 
 ## 📬 Connect with Me
 

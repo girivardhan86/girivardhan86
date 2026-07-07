@@ -69,7 +69,7 @@ A real-time AI-powered crowd monitoring system that detects people using YOLOv8,
 Python • YOLOv8 • OpenCV • Flask • HTML • CSS • JavaScript
 
 ### 🔗 Repository
-[View Project](https://github.com/girivardhan86)
+[🚀 View Project](https://github.com/girivardhan86/CrowdShield)
 
 </details>
 
@@ -92,7 +92,7 @@ An AI-powered WhatsApp chatbot that automates user interactions using NLP and th
 Python • Flask • WhatsApp Business API • LangChain • SQLite
 
 ### 🔗 Repository
-[View Project](https://github.com/girivardhan86)
+[🚀 View Project](https://github.com/girivardhan86/WhatsApp-Chatbot)
 
 </details>
 
@@ -114,51 +114,7 @@ An NLP-based application that summarizes business emails and extracts important 
 Python • Streamlit • NLP • Transformers • Pandas
 
 ### 🔗 Repository
-[View Project](https://github.com/girivardhan86)
-
-</details>
-
----
-
-<details>
-<summary><b>🏠 House Price Prediction System (Click to Expand)</b></summary>
-
-### 📌 Description
-A machine learning application that predicts house prices based on user inputs such as location, BHK, bathrooms, and area.
-
-### ✨ Features
-- 🏡 House price prediction
-- 📈 Data preprocessing
-- 🤖 Machine Learning model
-- 🌐 Interactive Streamlit interface
-
-### 🛠️ Tech Stack
-Python • Scikit-learn • Pandas • NumPy • Streamlit
-
-### 🔗 Repository
-[View Project](https://github.com/girivardhan86)
-
-</details>
-
----
-
-<details>
-<summary><b>💳 Credit Card Fraud Detection (Click to Expand)</b></summary>
-
-### 📌 Description
-A machine learning model that detects fraudulent credit card transactions using classification algorithms.
-
-### ✨ Features
-- 🔍 Fraud detection
-- 📊 Data preprocessing
-- ⚖️ Class imbalance handling (SMOTE)
-- 🤖 Random Forest model
-
-### 🛠️ Tech Stack
-Python • Scikit-learn • Pandas • NumPy • Streamlit
-
-### 🔗 Repository
-[View Project](https://github.com/girivardhan86)
+[🚀 View Project](https://github.com/girivardhan86/business-email-summarizer-ai)
 
 </details>
 

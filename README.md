@@ -44,6 +44,65 @@ AI & ML Engineer | Software Developer | Open Source Enthusiast
 - Scikit-learn
 - Matplotlib
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🛡️ CrowdShield – AI Crowd Monitoring System
+
+📌 **Description**
+- Real-time crowd monitoring using **YOLOv8** and **OpenCV**
+- Detects crowd density and generates heatmaps
+- Provides safety alerts for overcrowded areas
+- Interactive dashboard built using **Flask**
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-red?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+
+</td>
+
+<td width="50%">
+
+## 💬 WhatsApp AI Chatbot
+
+📌 **Description**
+- AI chatbot using WhatsApp Business API
+- Automated replies using NLP
+- Menu-driven chatbot interface
+- Supports internship and company information
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+![LangChain](https://img.shields.io/badge/LangChain-green?style=flat-square)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📧 Business Email Summarizer
+
+📌 **Description**
+- Summarizes business emails using NLP
+- Extracts important information automatically
+- Reduces reading time with concise summaries
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-blue?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+![Transformers](https://img.shields.io/badge/Transformers-yellow?style=flat-square)
 
 ## 📬 Connect with Me
 

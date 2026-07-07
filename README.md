@@ -26,7 +26,7 @@ AI & ML Engineer | Software Developer | Open Source Enthusiast
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,flask,fastapi,streamlit,mysql,mongodb,git,github,vscode,docker,tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=python,java,Machine Learning,Deep Learning, NLP,Computer Vision,Generative AI, Agentic AI,flask,fastapi,streamlit,LangChain,LangGraph,sql,mongodb,git,github,vscode,tensorflow,pytorch,opencv"/>
 </p>
 
 ---

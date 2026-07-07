@@ -49,60 +49,118 @@ AI & ML Engineer | Software Developer | Open Source Enthusiast
 <table>
 <tr>
 <td width="50%">
+  
+# 🚀 Featured Projects
 
-## 🛡️ CrowdShield – AI Crowd Monitoring System
+<details>
+<summary><b>🛡️ CrowdShield – AI Crowd Monitoring System (Click to Expand)</b></summary>
 
-📌 **Description**
-- Real-time crowd monitoring using **YOLOv8** and **OpenCV**
-- Detects crowd density and generates heatmaps
-- Provides safety alerts for overcrowded areas
-- Interactive dashboard built using **Flask**
+### 📌 Description
+A real-time AI-powered crowd monitoring system that detects people using YOLOv8, generates crowd density heatmaps, and provides safety alerts for overcrowded areas.
 
-**Tech Stack**
+### ✨ Features
+- 👥 Real-time person detection
+- 📊 Crowd density heatmaps
+- 🚨 Automatic overcrowding alerts
+- 🗺️ Interactive monitoring dashboard
+- 📹 Live video processing
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-red?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+### 🛠️ Tech Stack
+Python • YOLOv8 • OpenCV • Flask • HTML • CSS • JavaScript
 
-</td>
+### 🔗 Repository
+[View Project](https://github.com/girivardhan86)
 
-<td width="50%">
-
-## 💬 WhatsApp AI Chatbot
-
-📌 **Description**
-- AI chatbot using WhatsApp Business API
-- Automated replies using NLP
-- Menu-driven chatbot interface
-- Supports internship and company information
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
-![LangChain](https://img.shields.io/badge/LangChain-green?style=flat-square)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp)
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## 📧 Business Email Summarizer
+<details>
+<summary><b>💬 WhatsApp AI Chatbot (Click to Expand)</b></summary>
 
-📌 **Description**
-- Summarizes business emails using NLP
-- Extracts important information automatically
-- Reduces reading time with concise summaries
+### 📌 Description
+An AI-powered WhatsApp chatbot that automates user interactions using NLP and the WhatsApp Business API.
 
-### Tech Stack
+### ✨ Features
+- 🤖 Automated responses
+- 💬 NLP-based conversations
+- 📋 Interactive menu system
+- 📢 Internship & company information
+- 🔄 Easy-to-use chatbot interface
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-blue?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=flat-square)
+### 🛠️ Tech Stack
+Python • Flask • WhatsApp Business API • LangChain • SQLite
+
+### 🔗 Repository
+[View Project](https://github.com/girivardhan86)
+
+</details>
+
+---
+
+<details>
+<summary><b>📧 Business Email Summarizer (Click to Expand)</b></summary>
+
+### 📌 Description
+An NLP-based application that summarizes business emails and extracts important information for faster reading.
+
+### ✨ Features
+- 📄 Email summarization
+- 🔍 Key information extraction
+- ⚡ Fast processing
+- 📊 Concise summaries
+
+### 🛠️ Tech Stack
+Python • Streamlit • NLP • Transformers • Pandas
+
+### 🔗 Repository
+[View Project](https://github.com/girivardhan86)
+
+</details>
+
+---
+
+<details>
+<summary><b>🏠 House Price Prediction System (Click to Expand)</b></summary>
+
+### 📌 Description
+A machine learning application that predicts house prices based on user inputs such as location, BHK, bathrooms, and area.
+
+### ✨ Features
+- 🏡 House price prediction
+- 📈 Data preprocessing
+- 🤖 Machine Learning model
+- 🌐 Interactive Streamlit interface
+
+### 🛠️ Tech Stack
+Python • Scikit-learn • Pandas • NumPy • Streamlit
+
+### 🔗 Repository
+[View Project](https://github.com/girivardhan86)
+
+</details>
+
+---
+
+<details>
+<summary><b>💳 Credit Card Fraud Detection (Click to Expand)</b></summary>
+
+### 📌 Description
+A machine learning model that detects fraudulent credit card transactions using classification algorithms.
+
+### ✨ Features
+- 🔍 Fraud detection
+- 📊 Data preprocessing
+- ⚖️ Class imbalance handling (SMOTE)
+- 🤖 Random Forest model
+
+### 🛠️ Tech Stack
+Python • Scikit-learn • Pandas • NumPy • Streamlit
+
+### 🔗 Repository
+[View Project](https://github.com/girivardhan86)
+
+</details>
 
 ## 📬 Connect with Me
 

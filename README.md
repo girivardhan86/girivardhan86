@@ -10,9 +10,9 @@ AI & ML Engineer | Software Developer | Open Source Enthusiast
 
 <p align="center">
 🎓 B.Tech CSE (AI & ML) Student <br>
-💻 Passionate about AI, Machine Learning & Software Development <br>
-🌱 Currently learning Generative AI, Agentic AI ,mlops <br>
-🚀 Looking for Software Engineering & AI/ML Internship Opportunities
+🤖 Passionate about Artificial Intelligence & Machine Learning <br>
+📚 Currently learning MLOps, Generative AI & Agentic AI <br>
+🚀 Seeking Software Engineering, AI/ML & MLOps Internship Opportunities
 </p>
 
 <!-- 👇 PASTE THE BADGES HERE -->

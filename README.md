@@ -137,9 +137,7 @@ Python • Streamlit • NLP • Transformers • Pandas
 </p>
 
 ---
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=girivardhan86&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
+
 
 ## 📊 GitHub Stats
 [(https://github-readme-stats.vercel.app/api?username=girivardhan86)](https://github-readme-stats-sigma-five.vercel.app/api?username=girivardhan86&show_icons=true&theme=tokyonight)

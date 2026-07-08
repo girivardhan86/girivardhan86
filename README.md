@@ -50,7 +50,6 @@ AI & ML Engineer | Software Developer | Open Source Enthusiast
 <tr>
 <td width="50%">
   
-# 🚀 Featured Projects
 
 <details>
 <summary><b>🛡️ CrowdShield – AI Crowd Monitoring System (Click to Expand)</b></summary>

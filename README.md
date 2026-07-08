@@ -118,6 +118,9 @@ Python • Streamlit • NLP • Transformers • Pandas
 [🚀 View Project](https://github.com/girivardhan86/business-email-summarizer-ai)
 
 </details>
+</td>
+</tr>
+</table>
 
 ## 📬 Connect with Me
 
@@ -137,19 +140,61 @@ Python • Streamlit • NLP • Transformers • Pandas
 </p>
 
 ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=girivardhan86&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=girivardhan86&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=girivardhan86&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=girivardhan86&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=girivardhan86&theme=tokyo-night"/>
+
+</p>
+
+---
+---
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/girivardhan86/girivardhan86/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-## 📊 GitHub Stats
-[(https://github-readme-stats.vercel.app/api?username=girivardhan86)](https://github-readme-stats-sigma-five.vercel.app/api?username=girivardhan86&show_icons=true&theme=tokyonight)
+## 💭 Random Dev Quote
 
-## 🔥 GitHub Streak
-(https://streak-stats.demolab.com?user=girivardhan86)
+<p align="center">
 
-## 💻 Most Used Languages
-[https://github-readme-stats.vercel.app/api/top-langs/?username=girivardhan86](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=girivardhan86&layout=compact&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=120"/>

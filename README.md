@@ -156,9 +156,7 @@ Python • Streamlit • NLP • Transformers • Pandas
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=girivardhan86&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=girivardhan86&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -166,9 +164,7 @@ Python • Streamlit • NLP • Transformers • Pandas
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=girivardhan86&theme=tokyonight&row=2&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=girivardhan86&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---

@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Girivardhan%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+I%27m+Girivardhan+Reddy;AI+%26+ML+Engineer;Software+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
 </p>
@@ -119,7 +121,6 @@ Python • Streamlit • NLP • Transformers • Pandas
 
 ## 📬 Connect with Me
 
-<p align="center">
 
 <a href="mailto:girivardhang86@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -136,7 +137,11 @@ Python • Streamlit • NLP • Transformers • Pandas
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/girivardhan86/girivardhan86/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ## 📊 GitHub Stats
 [(https://github-readme-stats.vercel.app/api?username=girivardhan86)](https://github-readme-stats-sigma-five.vercel.app/api?username=girivardhan86&show_icons=true&theme=tokyonight)
@@ -146,3 +151,5 @@ Python • Streamlit • NLP • Transformers • Pandas
 
 ## 💻 Most Used Languages
 [https://github-readme-stats.vercel.app/api/top-langs/?username=girivardhan86](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=girivardhan86&layout=compact&theme=tokyonight)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=120"/>

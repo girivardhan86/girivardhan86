@@ -32,19 +32,72 @@ AI & ML Engineer | Software Developer | Open Source Enthusiast
 </p>
 
 ---
-🤖 AI & Data Science
+# 🛠️ Skills
+
+## 🤖 AI & Machine Learning
 - 🧠 Machine Learning
 - 🤖 Deep Learning
 - 💬 Natural Language Processing (NLP)
 - 👁️ Computer Vision
 - ✨ Generative AI
 - 🤖 Agentic AI
+- ⚙️ MLOps (Learning)
 
-📚 Libraries
+---
+
+## 💻 Programming Languages
+- 🐍 Python
+- ☕ Java
+- 🗄️ SQL
+
+---
+
+## 📚 Libraries & Frameworks
 - NumPy
 - Pandas
 - Scikit-learn
 - Matplotlib
+- OpenCV
+- TensorFlow
+- PyTorch
+- Flask
+- FastAPI
+- Streamlit
+
+---
+
+## 🗃️ Databases
+- MySQL
+- SQLite
+
+---
+
+## 🛠️ Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
+
+---
+
+## 📖 Computer Science Fundamentals
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- DBMS
+- Operating Systems
+- Computer Networks
+
+---
+
+## 🚀 Currently Learning
+- 🔹 MLOps
+- 🔹 Large Language Models (LLMs)
+- 🔹 LangChain
+- 🔹 LangGraph
+- 🔹 RAG (Retrieval-Augmented Generation)
+- 🔹 AI Agents
+- 🔹 Docker
 
 # 🚀 Featured Projects
 

@@ -178,6 +178,11 @@ Python • Streamlit • NLP • Transformers • Pandas
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/girivardhan86/girivardhan86/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
 
 
 ## 💭 Random Dev Quote
@@ -189,18 +194,3 @@ Python • Streamlit • NLP • Transformers • Pandas
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=120"/>
-
-## 🐍 Contribution Snake
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/girivardhan86/girivardhan86/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/girivardhan86/girivardhan86/output/github-contribution-grid-snake.svg">
-
-<img alt="github contribution grid snake animation"
-src="https://raw.githubusercontent.com/girivardhan86/girivardhan86/output/github-contribution-grid-snake.svg">
-
-</picture>

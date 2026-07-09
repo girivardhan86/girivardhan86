@@ -163,7 +163,7 @@ Python • Streamlit • NLP • Transformers • Pandas
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=girivardhan86&theme=flat"/>
+<img src="https://github-profile-trophy.vercel.app/?username=girivardhan86&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 ## 📈 GitHub Activity Graph
 

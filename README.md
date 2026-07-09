@@ -160,10 +160,10 @@ Python • Streamlit • NLP • Transformers • Pandas
 </p>
 
 ---
-## 📈 GitHub Activity
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=girivardhan86&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=girivardhan86&theme=flat"/>
 </p>
 ## 📈 GitHub Activity Graph
 

@@ -92,10 +92,6 @@ AI & ML Engineer | Software Developer | Open Source Enthusiast
 
 ## 🚀 Currently Learning
 - 🔹 MLOps
-- 🔹 Large Language Models (LLMs)
-- 🔹 LangChain
-- 🔹 LangGraph
-- 🔹 RAG (Retrieval-Augmented Generation)
 - 🔹 AI Agents
 - 🔹 Docker
 

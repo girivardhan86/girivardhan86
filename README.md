@@ -191,11 +191,8 @@ Python • Streamlit • NLP • Transformers • Pandas
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=girivardhan86&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=girivardhan86&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=girivardhan86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girivardhan86&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -210,9 +207,7 @@ Python • Streamlit • NLP • Transformers • Pandas
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=girivardhan86&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girivardhan86&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---

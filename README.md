@@ -85,8 +85,6 @@ AI & ML Engineer | Software Developer | Open Source Enthusiast
 - Data Structures & Algorithms (DSA)
 - Object-Oriented Programming (OOP)
 - DBMS
-- Operating Systems
-- Computer Networks
 
 ---
 
@@ -119,7 +117,7 @@ A real-time AI-powered crowd monitoring system that detects people using YOLOv8,
 Python • YOLOv8 • OpenCV • Flask • HTML • CSS • JavaScript
 
 ### 🔗 Repository
-[🚀 View Project](https://github.com/girivardhan86/crowd_shield_project)
+[🚀 View Project](https://github.com/girivardhan86/CrowdShield)
 
 </details>
 

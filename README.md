@@ -207,7 +207,7 @@ Python • Streamlit • NLP • Transformers • Pandas
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girivardhan86" width="95%" alt="GitHub Activity Graph"/>
+  <img src="https://YOUR-APP.vercel.app/graph?username=girivardhan86" width="95%" alt="GitHub Activity Graph"/>
 </p>
 ---
 ## 🐍 Contribution Snake
